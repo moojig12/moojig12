@@ -1,10 +1,5 @@
-# Naraa
-
-Software developer focused on web development and systems programming.
-
----
-
-## 👋 Hero
+## 👋 Hi! I'm Naraa
+# Software developer focused on web development and systems programming.
 
 I build efficient backend systems and work close to the machine when needed.  
 My focus is on performance, clean architecture, and practical engineering across web and systems layers.
