@@ -65,5 +65,5 @@ A raytracer built on top of the minilibx library.
 ## 📫 Contact
 
 - GitHub: https://github.com/moojig12
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your.email@example.com
+- LinkedIn: https://linkedin.com/in/narangerelt-mandakhbayar
+- Email: moojig5152@gmail.com
