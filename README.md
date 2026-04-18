@@ -29,7 +29,7 @@ My focus is on performance, clean architecture, and practical engineering across
 
 ## 🚀 Featured Projects
 
-### Project One — Web Server
+### Web Server
 Low-level backend service focused on performance and concurrency.
 Implements efficient request handling and system-level optimizations.
 
@@ -37,14 +37,14 @@ Implements efficient request handling and system-level optimizations.
 
 ---
 
-### Project Two — AI integrated quiz game
+### AI integrated quiz game
 Full-stack web application with a focus on clean architecture and modular design empowered by openai api calls.
 
 🔗 https://github.com/mdomnik/Transcendence
 
 ---
 
-### Project Three — MiniRT
+### MiniRT
 A raytracer built on top of the minilibx library.
 
 🔗 https://github.com/moojig12/42-MiniRT
@@ -53,6 +53,7 @@ A raytracer built on top of the minilibx library.
 
 ## 📊 Focus Areas
 
+- UI/UX Focused frontend design
 - Backend systems design
 - Performance optimization
 - Low-level programming (C/C++)
