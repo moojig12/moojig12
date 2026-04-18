@@ -28,21 +28,21 @@ My focus is on performance, clean architecture, and practical engineering across
 - Low-level backend service focused on performance and concurrency.
 - Implements efficient request handling and system-level optimizations.
 
-🔗 https://github.com/Fernandajo/WebServ
+🔗 **https://github.com/Fernandajo/WebServ**
 
 ---
 
 ### AI integrated quiz game
 - Full-stack web application with a focus on clean architecture and modular design empowered by openai api calls.
 
-🔗 https://github.com/mdomnik/Transcendence
+🔗 **https://github.com/mdomnik/Transcendence**
 
 ---
 
 ### MiniRT
 - A raytracer built on top of the minilibx library.
 
-🔗 https://github.com/moojig12/42-MiniRT
+🔗 **https://github.com/moojig12/42-MiniRT**
 
 ---
 
