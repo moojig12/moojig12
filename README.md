@@ -1,5 +1,5 @@
-## 👋 Hi! I'm Naraa
-# Software developer focused on web development and systems programming.
+
+##  👋 Hi! I'm Naraa, Software developer focused on web development and systems programming.
 
 I'm interested in Web apps, Game development, Graphics, Mobile dev and Systems programming. I'm currently building various web apps and learning new modern technologies.
 My focus is on performance, clean architecture, and practical engineering across web and systems layers. I've built my foundation of coding at 42 Berlin.
