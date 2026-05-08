@@ -43,7 +43,7 @@ I enjoy building software that is practical, performance-oriented, and solves re
 Right now, my main focus is on modern web and mobile applications, while continuing to explore lower-level systems and simulation programming.
 
 ### Currently Building
-- A mobile application focused on solving a real-world problem for Muslim women
+- A mobile application for Muslims
 - A personal note-taking and productivity app
 - Simulations and experimental projects in Java and C/C++
 - Exploring AI tooling and AI-assisted workflows for developers
