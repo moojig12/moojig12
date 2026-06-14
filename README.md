@@ -2,9 +2,7 @@
 
 I moved to Berlin in 2022 and shortly after started my journey as a Software developer at 42 Berlin with a strong focus on fullstack development, systems programming, and performance-oriented engineering.
 
-I enjoy building software across different layers of the stack — from low-level rendering and backend systems to modern web and mobile applications. My background in systems programming shaped how I approach software design: clean architecture, scalability, maintainability, and efficient execution always come first.
-
-Currently, I'm focused on modern Web and Mobile development while exploring AI tooling and developer-focused products.
+I enjoy building software across different layers of the stack — from low-level rendering and backend systems to full-stack modern web and mobile applications. From 42 Berlin, i've learned how to plan, collaborate and ship products with my team in a timely manner.
 
 ---
 
@@ -38,8 +36,7 @@ Currently, I'm focused on modern Web and Mobile development while exploring AI t
 
 # 🚀 What I Build
 
-I enjoy building software that is practical, performance-oriented, and solves real problems.
-
+I enjoy building software that is practical, performance-oriented and solves real problems.
 Right now, my main focus is on modern web and mobile applications, while continuing to explore lower-level systems and simulation programming.
 
 ### Currently Building
@@ -56,23 +53,7 @@ Right now, my main focus is on modern web and mobile applications, while continu
 - Graphics programming and rendering
 - Simulation and engine-style projects
 - Developer tooling and automation
-
-### Mindset
-I care about:
-- Thoughtful UI/UX
-- Clean architecture
-- Maintainable codebases
-- Performance and scalability
-- Building software that solves problems
-
----
-
-# 📌 Highlight Project
-
-### Transcendence
-Fullstack web application integrating AI-powered features with modular backend architecture.
-
-🔗 https://github.com/mdomnik/Transcendence
+- Game prototypes
 
 ---
 
